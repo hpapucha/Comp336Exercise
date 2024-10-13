@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="new2.xsl"?>
+
+    <catalog>
+        <team>
+            <name>Manchester United</name>
+            <stadium>Old Trafford</stadium>
+            <jersey>Red and White</jersey>
+            <titles>6</titles>
+        </team>
+        <team>
+            <name>Liverpool</name>
+            <stadium>Annfield</stadium>
+            <jersey>Red</jersey>
+            <titles>7</titles>
+        </team>
+        <team>
+            <name>Fullham</name>
+            <stadium>Craven Cottage</stadium>
+            <jersey>Black and White</jersey>
+            <titles>2</titles>
+        </team>
+    </catalog>
